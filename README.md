@@ -41,11 +41,3 @@ Welcome to the **Marketing and Business Analysis Projects Repository**! This rep
 - [📁 Explore Project Details](./Pharmaceutical_Marketing_Instructions)
 
 ---
-
-## 🔧 Tools and Technologies
-- **Data Analysis**: Python, Pandas, Numpy
-- **Visualization**: Matplotlib, Seaborn
-- **Optimization and Modeling**: Regression Analysis, Lift/Support/Confidence Metrics, ROI Calculation
-- **Documentation**: Detailed PDF reports with strategic insights.
-
----
